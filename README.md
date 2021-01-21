@@ -1,7 +1,7 @@
 # Web Starter Project
 A foundational app for building with Express and Create React App.
 Inspired by a desire to set my students up to win for my courses.
-
+Katherine's the coolest
 ## What's inside?
 * Node BE [Express](https://expressjs.com/) with sample GET and POST routes
 * Node FE [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
