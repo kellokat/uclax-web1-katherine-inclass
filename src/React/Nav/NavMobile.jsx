@@ -14,7 +14,6 @@ const NavMobile = () => {
 
     const handleHamburgerToggle = () => {
         showMobileMenuUpdate(!showMobileMenu);
-        console.log('showMobileMenu', showMobileMenu);
     }
 
     return (
